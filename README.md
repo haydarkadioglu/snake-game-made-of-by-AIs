@@ -1,9 +1,5 @@
 # Snake Game in Pygame
 
-This project is a Python-based Snake Game created using the Pygame library. It features smooth controls, increasing difficulty, and a scoring system. The game also includes a retro arcade-style UI and bonus power-ups for added fun. The code is designed to be clean and optimized for better performance.
-
-## Project Context
-
 This project was created as part of an experiment to evaluate the coding capabilities of various AI models. The following AI models were given the same prompt to create a Snake Game:
 - **GPT-4.5**
 - **GPT-4o**
@@ -12,6 +8,10 @@ This project was created as part of an experiment to evaluate the coding capabil
 - **Cursor-auto-mod**
 
 The goal was to observe how well these AI models could generate clean, functional, and optimized code for a Python game using Pygame. Each AI's output was reviewed and combined to create the final version of this game.
+
+# Prompt
+
+Create a Python Snake Game in Pygame with smooth controls, increasing difficulty, and a scoring system. Add a retro arcade UI and bonus power-ups for extra fun. Keep the code clean and optimized.
 
 ## Features
 - **Smooth Controls**: Responsive and intuitive gameplay.
