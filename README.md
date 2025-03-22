@@ -9,6 +9,7 @@ This project was created as part of an experiment to evaluate the coding capabil
 - **GPT-4o**
 - **Claude 3.7**
 - **Deepsek**
+- **Cursor-auto-mod**
 
 The goal was to observe how well these AI models could generate clean, functional, and optimized code for a Python game using Pygame. Each AI's output was reviewed and combined to create the final version of this game.
 
